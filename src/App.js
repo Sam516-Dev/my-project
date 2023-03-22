@@ -5,7 +5,7 @@ function App() {
   return (
     <fragment>
       <div>
-        <Navbar/>
+        <Navbar />
       </div>
     </fragment>
   )
