@@ -2,9 +2,9 @@ import React from 'react'
 
 export default function () {
   return (
-    <div className=" flex justify-between">
+    <div className=" border-b border-blue-500 py-4 flex justify-between">
       <div >
-        <ul className=" flex">
+        <ul className=" text-blue-900 gap-8 font-medium text-lg flex">
           <li>
             <a href="#">Flights</a>
           </li>
@@ -26,12 +26,12 @@ export default function () {
         </ul>
       </div>
       <div>
-        <ul className=" flex">
+        <ul className=" text-blue-900 gap-8 font-medium text-lg flex">
           <li>
-            <a href="#">Flights</a>
+            <a href="#">Trips</a>
           </li>
-          <li>
-            <a href="#">Hotels</a>
+          <li className=" border border-blue-500 px-2 rounded-md">
+            <a href="#">Sign In</a>
           </li>
         </ul>
       </div>
