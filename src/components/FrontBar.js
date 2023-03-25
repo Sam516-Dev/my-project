@@ -59,8 +59,8 @@ function FrontBar() {
             </div>
           </div>
         </div>
-        <div></div>
-        <div></div>
+        <div> this is the 3rd div</div>
+        <div> this is the 4th wrapped div and should inlude outer elements of the web page </div>
       </div>
     </div>
   )
