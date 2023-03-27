@@ -3,6 +3,7 @@ import logo from '../Media/Assets/logo.png'
 
 export default function () {
   return (
+    <div> 
     <div className=" border-b border-blue-500 py-4 flex justify-between">
         <div className="  h-8 w-8 ">
           <img src={logo} alt="logo" />
@@ -39,6 +40,11 @@ export default function () {
           </li>
         </ul>
       </div>
-    </div>
+      </div>
+
+      <div className=" text-center mt-20">
+      <h1 className="  text-white font-normal text-4xl "> Where will you be flying today ?</h1>
+      </div>
+      </div>
   )
 }
