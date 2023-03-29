@@ -7,7 +7,7 @@ function FrontBar() {
   return (
     <div>
       <div>
-        <div className=" bg-blue-500 py-32 rounded-lg mt-10">
+        <div className=" bg-green-500 py-32  rounded-lg mt-10">
           <div className=" px-14 flex -mt-28 items-center gap-7">
             <div className="gap-1 text-white font-semibold text-lg flex items-center">
               <input
