@@ -9,7 +9,7 @@ export default function () {
           <img src={logo} alt="logo" />
         </div>
       <div className="mr-52">
-        <ul className=" text-white gap-16 font-normal flex">
+        <ul className=" text-blue-50 gap-16 font-normal flex">
           <li>
             <a href="#">Flights</a>
           </li>
@@ -31,7 +31,7 @@ export default function () {
         </ul>
       </div>
       <div>
-        <ul className=" text-white gap-8 font-normal text-lg flex">
+        <ul className=" text-blue-50 gap-8 font-normal text-lg flex">
           <li>
             <a href="#">Trips</a>
           </li>
