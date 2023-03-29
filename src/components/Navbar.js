@@ -4,12 +4,12 @@ import logo from '../Media/Assets/logo.png'
 export default function () {
   return (
     <div> 
-    <div className=" border-b border-blue-500 py-4 flex justify-between">
-        <div className="  h-8 w-8 ">
+    <div className=" border-b border-blue-200 py-4 flex justify-between">
+        <div className=" h-6 w-6 ">
           <img src={logo} alt="logo" />
         </div>
-      <div>
-        <ul className=" text-white gap-8 font-medium text-lg flex">
+      <div className="mr-52">
+        <ul className=" text-white gap-16 font-normal flex">
           <li>
             <a href="#">Flights</a>
           </li>
@@ -31,7 +31,7 @@ export default function () {
         </ul>
       </div>
       <div>
-        <ul className=" text-white gap-8 font-medium text-lg flex">
+        <ul className=" text-white gap-8 font-normal text-lg flex">
           <li>
             <a href="#">Trips</a>
           </li>
