@@ -45,6 +45,10 @@ export default function () {
       <div className=" text-center mt-20">
         <h1 className="  text-white font-normal text-4xl "> Where will you be flying today ?</h1>
         <p className="text-blue-100 text-lg mt-1 font-light"> More options, our best prices, less headaches </p>
+        <h1 className="  text-white font-normal text-4xl "> Where will you be flying today ?</h1>
+        <p className="text-blue-100 text-lg mt-1 font-light"> More options, our best prices, less headaches </p>
+        <h1 className="  text-white font-normal text-4xl "> Where will you be flying today ?</h1>
+        <p className="text-blue-100 text-lg mt-1 font-light"> More options, our best prices, less headaches </p>
       </div>
 
       </div>
