@@ -86,36 +86,12 @@ function FrontBar() {
         this is the 4th wrapped div and should inlude outer elements of the web
         page
       </div>
-      <div>
-        this is the 4th wrapped div and should inlude outer elements of the web
-        page
-      </div><div>
-      this is the 4th wrapped div and should inlude outer elements of the web
-      page
-    </div><div>
+     <div>
     this is the 4th wrapped div and should inlude outer elements of the web
     page
   </div><div>
   this is the 4th wrapped div and should inlude outer elements of the web
   page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
-</div><div>
-this is the 4th wrapped div and should inlude outer elements of the web
-page
 </div><div>
 this is the 4th wrapped div and should inlude outer elements of the web
 page
