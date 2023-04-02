@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <div className=" absolute w-full h-40">
-        <img src={Bg} alt="bg" />
+        <img src={Bg} alt="bg" className='object-cover' />
       </div>
       <div className="  relative mx-20 h-screen">
         <Navbar />
