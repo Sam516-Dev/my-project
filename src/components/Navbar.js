@@ -3,7 +3,7 @@ import logo from '../Media/Assets/logo.png'
 
 export default function () {
   return (
-    <div>
+    <div className=''>
       <div className=" border-b border-blue-200 py-4 flex justify-between">
         <div className=" h-6 w-6 ">
           <img src={logo} alt="logo" />

@@ -7,7 +7,7 @@ import { BsPeopleFill } from 'react-icons/bs'
 function FrontBar() {
   return (
     <div>
-      <div className=" relative overflow-hidden bg-white py-36  rounded-md mt-10">
+      <div className=" relative overflow-hidden bg-white py-36 drop-shadow-[0_5px_5px_rgba(0,0,0,0.30)] rounded-md mt-10">
         <form className=" px-14  flex -mt-28 items-center gap-12">
           <div className="gap-1 text-blue-900 font-semibold text-lg flex items-center">
             <input
@@ -81,7 +81,7 @@ function FrontBar() {
           </div>
         </div>
 
-        <div className=" px-14 absolute mt-10 mx-auto w-full py-11 bg-slate-200">
+        <div className=" px-12 absolute mt-10 mx-auto w-full py-4 bg-slate-200">
           <div className="flex justify-between">
             <div className="flex gap-20">
               <label className="text-blue-900 font-medium"> Add a Hotel </label>
@@ -92,31 +92,13 @@ function FrontBar() {
             <div>
               <button className="bg-blue-600 px-8 rounded-md  py-3">
                 <label className="text-white font-medium">
-                  {' '}
                   Search Flights
                 </label>
               </button>
             </div>
           </div>
         </div>
-      </div>
-      <div> this is the 3rd div</div>
-      <div>
-        this is the 4th wrapped div and should inlude outer elements of the web
-        page
-      </div>
-      <div>
-        this is the 4th wrapped div and should inlude outer elements of the web
-        page
-      </div>
-      <div>
-        this is the 4th wrapped div and should inlude outer elements of the web
-        page
-      </div>
-      <div>
-        this is the 4th wrapped div and should inlude outer elements of the web
-        page
-      </div>
+      </div>     
     </div>
   )
 }
