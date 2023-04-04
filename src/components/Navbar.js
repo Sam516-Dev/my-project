@@ -1,9 +1,8 @@
-
 import logo from '../Media/Assets/logo.png'
 
 export default function () {
   return (
-    <div className=''>
+    <div className="">
       <div className=" border-b border-blue-200 py-4 flex justify-between">
         <div className=" h-6 w-6 ">
           <img src={logo} alt="logo" />
@@ -44,14 +43,11 @@ export default function () {
 
       <div className=" text-center mt-20">
         <h1 className="  text-white font-normal text-4xl ">
-        
           Where will you be flying today ?
         </h1>
         <p className="text-blue-100 text-lg mt-1 font-light">
-         
           More options, our best prices, less headaches
         </p>
-      
       </div>
     </div>
   )
