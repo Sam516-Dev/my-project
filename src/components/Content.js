@@ -21,7 +21,7 @@ const Content = () => {
         </div>
       </div>
 
-      <div className="pb-28">
+      <div>
         <table className="min-w-full divide-y drop-shadow-[0_3px_3px_rgba(0,0,0,0.20)] rounded-lg overflow-hidden mt-1 ">
           <thead>
             <tr className="bg-my-gray-color min-h-full text-my-text-color">
