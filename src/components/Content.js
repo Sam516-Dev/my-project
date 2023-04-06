@@ -1,7 +1,7 @@
 import React from 'react'
 import { MdNavigateNext } from 'react-icons/md'
 
-//MdNavigateNext
+
 
 const Content = () => {
   return (
