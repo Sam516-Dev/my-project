@@ -1,4 +1,6 @@
 import logo from '../Media/Assets/logo.png'
+// Navigation bar component
+
 
 export default function () {
   return (
