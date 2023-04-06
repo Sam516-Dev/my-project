@@ -5,7 +5,7 @@ import { Gallery } from './components/Gallery'
 import Navbar from './components/Navbar'
 import Bg from './Media/Assets/Bg.jpg'
 
-
+// main component here
 function App() {
   return (
     <div className='bg-my-bg-color min-h-screen'>
