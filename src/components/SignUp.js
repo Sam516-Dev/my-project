@@ -14,17 +14,17 @@ export const SignUp = () => {
           Just add your email, it's that simple
         </p>
       </div>
-      <div className="flex justify-between items-center relative overflow-hidden">
-        <input
-          type="text"
-          class="appearance-none border rounded-md  bg-my-gray-color py-2 px-24 text-gray-700 font-normal text-lg leading-tight focus:outline-none focus:shadow-outline"
-          id="username"
-        />
-        <button className="bg-yellow-400 text-lg ml-60 rounded-md overflow-hidden font-semibold py-2 px-12 text-my-darker-color absolute ">
-         
-          Subscribe
-        </button>
-      </div>
+      <div class="relative overflow-hidden">
+      <input
+      type="text"
+      class="appearance-none border rounded-md bg-my-gray-color w-full py-2 px-24 text-gray-700 font-normal text-lg leading-tight focus:outline-none focus:shadow-outline text-left"
+      id="username"
+    />
+  <button class="bg-yellow-400 text-lg rounded-md overflow-hidden font-semibold py-2 px-4 sm:px-12 md:px-12 text-my-darker-color absolute right-0 top-0 bottom-0">
+    Subscribe
+  </button>
+</div>
+
     </div>
   )
 }
