@@ -5,11 +5,11 @@ export const SignUp = () => {
     <div className="mt-10 flex justify-between items-center bg-my-btn-color py-8 px-20">
       <div>
         <h3 className="text-white font-semibold text-lg">
-          {' '}
-          Sign up for our newsletter{' '}
+         
+          Sign up for our newsletter
         </h3>
         <p className=" text-my-bg-color text-sm leading-tight font-normal">
-          {' '}
+        
           Promo code and private deals of upto 30% off. <br />
           Just add your email, it's that simple
         </p>
