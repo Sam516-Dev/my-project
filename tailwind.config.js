@@ -13,7 +13,7 @@ module.exports = {
 
         'my-text-color': '#203850', //
         'my-border-color': '#737477', //
-        // 'my-btn2-color': '#5766c3', // #5766c3
+         'my-footer-bg-color': '#041527', // #5766c3
       },
     },
   },

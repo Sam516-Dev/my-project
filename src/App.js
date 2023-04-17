@@ -1,5 +1,6 @@
 import './App.css'
 import Content from './components/Content'
+import Footer from './components/Footer'
 import FrontBar from './components/FrontBar'
 import { Gallery } from './components/Gallery'
 import Navbar from './components/Navbar'
@@ -23,6 +24,7 @@ function App() {
       </div>
       <div className="pb-36">
         <SignUp />
+        <Footer />
       </div>
     </div>
   )
