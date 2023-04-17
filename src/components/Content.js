@@ -77,8 +77,8 @@ const Content = () => {
               <td className="px-6 py-4 whitespace-nowrap">
                 <div className="flex flex-col justify-start">
                   <p className="font-medium text-my-text-color text-lg">
-                    {' '}
-                    Lamu{' '}
+                  
+                    Lamu
                   </p>
                   <label> Lam78</label>
                 </div>
