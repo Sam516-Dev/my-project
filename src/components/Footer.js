@@ -59,6 +59,35 @@ function Footer() {
               </li>
             </ul>
           </div>
+          <div>
+            <div class="flex flex-col justify-items-start justify-center">
+              <h4 className=" text-lg">SITE/CURRENCY </h4>
+              <select id="option1" class="p-1 border rounded-md">
+                <option value="value1" class="mx-4">
+                  Value 1
+                </option>
+                <option value="value2" class="mx-4">
+                  Value 2
+                </option>
+                <option value="value3" class="mx-4">
+                  Value 3
+                </option>
+              </select>
+
+              
+              <select id="option2" class="p-1 border rounded-md">
+                <option value="value4" class="mx-4">
+                  Value 4
+                </option>
+                <option value="value5" class="mx-4">
+                  Value 5
+                </option>
+                <option value="value6" class="mx-4">
+                  Value 6
+                </option>
+              </select>
+            </div>
+          </div>
         </div>
       </div>
     </div>
